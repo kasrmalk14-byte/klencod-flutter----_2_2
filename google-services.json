@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692604991205",
+    "project_id": "alkasrapp-dfdcb",
+    "storage_bucket": "alkasrapp-dfdcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692604991205:android:f4e2aa2010e3f0bb4e460c",
+        "android_client_info": {
+          "package_name": "com.alkaser.globalchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjIWKGDG9PGnRFilGaawhnEjqAxV6NyI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
